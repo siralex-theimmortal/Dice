@@ -40,7 +40,7 @@ Directory| Description
 This project is developed by the following team members:
 
 1. Milad Mazhari 
-2. Mehran 
+2. Mehran Sadeghi
 3. Abolfazl Sadeghian
 
 
