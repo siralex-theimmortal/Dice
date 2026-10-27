@@ -47,12 +47,15 @@ This project is developed by the following team members:
 
 Repository Structure
 
+
 Dice/
 ├── README.md
 └── docs/
     ├── SRS/
+    │   └── README.md
     ├── activity-diagram/
+    │   └── README.md
     └── class-diagram/
-
+        └── README.md
 
 The project scope, requirements, diagrams, and implementation details will be updated as development progresses.
