@@ -47,7 +47,7 @@ This project is developed by the following team members:
 
 Repository Structure
 
-
+```
 Dice/
 ├── README.md
 └── docs/
@@ -57,5 +57,6 @@ Dice/
     │   └── README.md
     └── class-diagram/
         └── README.md
+```
 
 The project scope, requirements, diagrams, and implementation details will be updated as development progresses.
