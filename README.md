@@ -45,7 +45,7 @@ This project is developed by the following team members:
 
 
 
-Repository Structure
+### Repository Structure
 
 ```
 Dice/
