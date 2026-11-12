@@ -28,7 +28,6 @@ The Personal Expense Management System is designed to help users record, organiz
 
 The "docs/" directory contains the software engineering documentation and system design artifacts.
 
-Directory Description
 ```
 "docs/SRS/" | Software Requirements Specification, including functional and non-functional requirements.
 "docs/activity-diagram/" | Activity diagrams illustrating important workflows and system processes.
