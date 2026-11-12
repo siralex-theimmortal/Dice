@@ -13,7 +13,6 @@ The Personal Expense Management System is designed to help users record, organiz
 - Organize financial transactions into categories.
 - Help users monitor their spending habits.
 - Provide summaries of income, expenses, and financial balances.
-- Apply software engineering principles throughout the requirements analysis, system design, and development process.
 
 ### Planned Features
 
@@ -24,16 +23,17 @@ The Personal Expense Management System is designed to help users record, organiz
 - Transaction History: Review previously recorded financial activities.
 - Reporting: Present financial information in a clear and understandable format.
 
-Note: These features represent the initial project scope and may be refined during requirements analysis.
 
 ### Project Documentation
 
 The "docs/" directory contains the software engineering documentation and system design artifacts.
 
-Directory| Description
-"docs/SRS/"| Software Requirements Specification, including functional and non-functional requirements.
-"docs/activity-diagram/"| Activity diagrams illustrating important workflows and system processes.
-"docs/class-diagram/"| Class diagrams describing the proposed system structure and relationships between classes.
+Directory Description
+```
+"docs/SRS/" | Software Requirements Specification, including functional and non-functional requirements.
+"docs/activity-diagram/" | Activity diagrams illustrating important workflows and system processes.
+"docs/class-diagram/" | Class diagrams describing the proposed system structure and relationships between classes.
+```
 
 ### Team Members
 
